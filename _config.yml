@@ -12,7 +12,7 @@ presskit_download_link: # Enter a link to downloadable file or (e.g. public Drop
 app_icon: # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Weaved
 app_price: Helping men to dress better.
-app_description: Soon to be available for Public Beta
+app_description: Coming soon to Public Beta
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -30,45 +30,29 @@ mastodon_link:
 
 # Feature List
 features:
-  - title: GitHub Pages Jekyll Theme
-    description: Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title: Helping Men dress better
+    description: Our mission is to help men dress effortlessly stylishly.
     fontawesome_icon_name: magic
 
-  - title: iPhone Device Preview
-    description: Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name: mobile
+  - title: Personalised Recommendations
+    description: Style your wardrobe with personalised outfit recommendations.
+    fontawesome_icon_name: tshirt
 
-  - title: Video Support
-    description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name: play-circle
+  - title: Outfit Ideas
+    description: Weaved keeps tabs on the latest styles to keep your wardrobe up to date.
+    fontawesome_icon_name: socks
 
-  - title: Automatic Icon and Metadata
-    description: Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name: sync
+  - title: Powerful Algorithms
+    description: Our powerful AI recommendations engine learns your style and body.
+    fontawesome_icon_name: user
 
-  - title: Easy to Tweak
-    description: Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: adjust
+  - title: Browse & Filter
+    description: Browse through hundreds of products personalised to your style.
+    fontawesome_icon_name: filter
 
-  - title: Feature List
-    description: Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title: Fashion Tips & Likes
+    description: Track your favourite pieces for a day in the office or an evening out.
     fontawesome_icon_name: star
-
-  - title: Smart App Banner
-    description: Display a smart app banner on iOS devices.
-    fontawesome_icon_name: arrow-alt-circle-down
-
-  - title: Social Links
-    description: Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: link
-
-  - title: FontAwesome Support
-    description: Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: info-circle
-
-  - title: # New Feature Title
-    description: # New Feature Description
-    fontawesome_icon_name: # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 # Theme Settings
 topbar_color: "#000000"
