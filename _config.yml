@@ -9,7 +9,7 @@ appstore_link: # Automatically populates if not set and if iOS app ID is set. Ot
 playstore_link: # Enter Google Play Store URL.
 presskit_download_link: # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
 
-app_icon: # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon: assets/appicon.png
 app_name: Weaved
 app_price: Helping men to dress better.
 app_description: Coming soon to Public Beta
@@ -76,10 +76,10 @@ app_description_color: "#ffffff"
 feature_title_color: "#000000"
 feature_text_color: "#666666"
 
-feature_icons_foreground_color: "#1d63ea"
+feature_icons_foreground_color: "#080725"
 feature_icons_background_color: "#e6e6e6"
 
-social_icons_foreground_color: "#666666"
+social_icons_foreground_color: "#080725"
 social_icons_background_color: "#e6e6e6"
 
 footer_text_color: "#666666"
